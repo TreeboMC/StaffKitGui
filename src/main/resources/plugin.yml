@@ -1,0 +1,5 @@
+name: StaffKitGui
+version: ${project.version}
+main: me.shakeforprotein.staffkitgui.StaffKitGui
+authors: [ShakeforProtein]
+description: A gui plugin to simplify staff command usage
